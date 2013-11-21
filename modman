@@ -11,3 +11,5 @@ skin/frontend/default			skin/frontend/base
 buscacep.php					buscacep.php
 
 phpQuery-onefile.php			phpQuery-onefile.php
+
+js								js
